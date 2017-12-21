@@ -1,0 +1,8 @@
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\bin\Debug\Shapes.exe.config
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\bin\Debug\Shapes.exe
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\bin\Debug\Shapes.pdb
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\bin\Debug\Bytes2you.Validation.dll
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\obj\Debug\Shapes.exe
+D:\Orlin\TAAlpha\OopPrinciplesTwo\Shapes\obj\Debug\Shapes.pdb
